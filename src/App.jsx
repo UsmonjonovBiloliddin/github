@@ -8,7 +8,6 @@ function App() {
 
   return (
     <>
-<<<<<<< HEAD
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
@@ -42,11 +41,23 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-=======
+      =======
       <h1 className="title">ERROR</h1>
       <h1 className="title">ERROR</h1>
       <h1 className="title">ERROR</h1>
->>>>>>> 80ef0fe0f37e3889d053a82c6634520d29741287
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis
+        tempora porro voluptates nulla velit quod ad dolorem id eum sint,
+        nostrum deserunt corrupti eos quos facere officia provident perspiciatis
+        ullam eius libero! Tempora harum ea ad minima vel? Ad molestias sapiente
+        nisi sequi vel, saepe quaerat. Iure officiis molestias fuga culpa quos,
+        provident voluptatum nihil illum animi cumque, obcaecati voluptates!
+        Mollitia dolore facere aspernatur totam temporibus eaque deserunt itaque
+        libero, iure quae nostrum a nesciunt corrupti, voluptate quod ea ipsam
+        laboriosam magni cum eveniet. Rem reiciendis fugit voluptate possimus
+        maiores nihil sequi. Similique facere tenetur omnis blanditiis. Maxime,
+        odit blanditiis.
+      </p>
     </>
   );
 }
