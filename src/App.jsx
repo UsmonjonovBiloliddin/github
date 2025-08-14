@@ -41,6 +41,15 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
         <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
+        <h3>Men uddaladim Nurzotbek</h3>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
