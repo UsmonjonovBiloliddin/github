@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
@@ -41,6 +42,11 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+=======
+      <h1 className="title">ERROR</h1>
+      <h1 className="title">ERROR</h1>
+      <h1 className="title">ERROR</h1>
+>>>>>>> 80ef0fe0f37e3889d053a82c6634520d29741287
     </>
   );
 }
