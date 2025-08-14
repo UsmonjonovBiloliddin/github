@@ -51,6 +51,14 @@ function App() {
       <h1>Assalomu alaykum</h1>
       <h1>Hello world</h1>
       <h1>Hello world</h1>
+
+      <h1>Najmiddin</h1>
+      <h1>Najmiddin</h1>
+      <h1>Najmiddin</h1>
+      <h1>Najmiddin</h1>
+      <h1>Najmiddin</h1>
+      <h1>Najmiddin</h1>
+      <h1>Najmiddin</h1>
     </>
   );
 }
