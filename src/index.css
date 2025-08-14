@@ -66,3 +66,8 @@ button:focus-visible {
     background-color: #b61111;
   }
 }
+.title {
+  font-size: 5em;
+  margin-bottom: 0.5em;
+  color: red;
+}
