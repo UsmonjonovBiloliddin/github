@@ -44,11 +44,10 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <h1>Assalomu alaykum</h1>
-      <h1>Assalomu alaykum</h1>
-      <h1>Assalomu alaykum</h1>
-      <h1>Assalomu alaykum</h1>
-      <h1>Assalomu alaykum</h1>
+      =======
+      <h1 className="title">ERROR</h1>
+      <h1 className="title">ERROR</h1>
+      <h1 className="title">ERROR</h1>
     </>
   );
 }
