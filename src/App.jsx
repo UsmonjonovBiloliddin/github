@@ -22,7 +22,7 @@ function App() {
       <h1>Muhammadziyo</h1>
       <h1>Muhammadziyo</h1>
       <h1>Muhammadziyo</h1>
-      <h1>Muhammadziyo</h1>
+      <h1>Muhammadziyo</h1>``
       <h1>Muhammadziyo</h1>
       <h1>Muhammadziyo</h1>
       <div className="card">
@@ -36,6 +36,11 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+      <h1>hammaga salom </h1>
+      <h1>hammaga salom </h1>
+      <h1>hammaga salom </h1>
+      <h1>hammaga salom </h1>
     </>
   );
 }
