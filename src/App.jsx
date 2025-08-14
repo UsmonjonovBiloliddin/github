@@ -48,8 +48,6 @@ function App() {
         <h3>Men uddaladim Nurzotbek</h3>
         <h3>Men uddaladim Nurzotbek</h3>
         <h3>Men uddaladim Nurzotbek</h3>
-        <h3>Men uddaladim Nurzotbek</h3>
-        <h3>Men uddaladim Nurzotbek</h3>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
